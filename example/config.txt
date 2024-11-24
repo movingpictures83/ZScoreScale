@@ -1,0 +1,2 @@
+Prefix plugins/ZScoreScale/example/
+Plugin ZScoreScale inputfile expressed.rds outputfile zscore.rds
